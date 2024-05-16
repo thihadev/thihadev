@@ -1,23 +1,25 @@
-# Hi there, I'm Thiha Soe 👋
+# Hello World 👋
 
-I'm a passionate web developer from Myanmar.
+I'm Thiha Soe. I'm a passionate Backend developer from Myanmar.
 
 ## 🚀 Skills
-![php](https://img.shields.io/static/v1?style=flat&logo=php&label=PHP&message=✔️&color=blueviolet)
-![laravel](https://img.shields.io/static/v1?style=flat&logo=laravel&label=Laravel&message=✔️&color=red)
-![js](https://img.shields.io/static/v1?style=flat&logo=javascript&label=JavaScript&message=✔️&color=yellow)
-
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🌱 Currently Learning
-![react](https://img.shields.io/static/v1?style=flat&logo=react&label=React&message=✔️&color=violet)
-![inertia](https://img.shields.io/static/v1?style=flat&logo=inertia&label=InertiaJs&message=✔️&color=red)
-![next](https://img.shields.io/static/v1?style=flat&logo=electron&label=NextJs&message=✔️&color=blue)
-![ionic](https://img.shields.io/static/v1?style=flat&logo=ionic&label=Ionic&message=✔️&color=blue)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thihadev&show_icons=true&locale=en&layout=compact" alt="thihadev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thihadev&show_icons=true&locale=en" alt="thihadev" /></p>
+![](https://github-readme-stats.vercel.app/api?username=thihadev&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thihadev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 How to reach me
-- [GitHub](https://github.com/thihadev)
-- [LinkedIn](https://www.linkedin.com/in/thiha-soe-3826ab153/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/spirit.wolf.731/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiha-soe-3826ab153/) 
+
