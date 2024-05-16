@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Thiha Soe 👋
 
-<!--
-**thihadev/thihadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer from Myanmar.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- PHP, Laravel
+- JavaScript, Vue.js, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Next.js
+- Advanced React Patterns
+
+## 📫 How to reach me
+- [GitHub](https://github.com/thihadev)
+- [LinkedIn]([https://www.linkedin.com/in/thihadev/](https://www.linkedin.com/in/thiha-soe-3826ab153/))
